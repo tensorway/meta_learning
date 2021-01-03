@@ -5,10 +5,11 @@ Implementations of MAML, FOMAML and REPTILE as meta learning algorithms.
 ## REPTILE visualization
 
 the learning rate was set to max possible
-blue - net that was trained with reptile
-black- baseline net
-red  - true function
-orange - samples
+#### Legend
+- blue   -> net that was trained with reptile
+- black  -> baseline net
+- red    -> true function
+- orange -> samples
 
 ### REPTILE learns much faster 
 ![](gifs/reptile_sine.gif) ![](gifs/reptile_plot.gif)
